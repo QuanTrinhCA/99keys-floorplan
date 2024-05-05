@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# 99 Keys Floor Plan Sample React Application
 
+https://github.com/QuanTrinhCA/99keys-floorplan/assets/44539970/21f59b3b-fee8-46e5-b519-1e3c63c713f0
+
+# From the template:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
